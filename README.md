@@ -2,7 +2,7 @@
 - 👀 I'm a front end web developer
 - 🌱 I’m currently learning tailwind
 - 💞️ I’m looking to collaborate on projects and businesses
-- 📫 How to reach me: Whatsapp +234 8038570531
+- 📫 How to reach me: Upwork https://www.upwork.com/jobs/~01ccf5658f64c841c5
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm a medical student with experience and love for coding
 
